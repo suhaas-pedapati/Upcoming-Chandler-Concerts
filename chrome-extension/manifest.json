@@ -1,0 +1,16 @@
+{
+    "name": "Upcoming Chandler Concerts",
+    "version": "1.0.0",
+    "description": "This is an extension that looks up concerts coming to Chandler!",
+    "manifest_version": 3,
+    "author": "Suhaas Pedapati",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Upcoming Chandler Concerts"
+
+
+    }
+    
+}
+
+
